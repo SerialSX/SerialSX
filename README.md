@@ -6,4 +6,4 @@ Estudante de Análise e Desenvolvimento de Sistemas na Unifor, com foco em desen
 
 **Projetos em destaque:** Alexandria (plataforma de livros, web e mobile), StudyAwards (gamificação escolar), ElaSegura (app de segurança para mulheres) e NavegadorVortex-360 (protótipo em Unity).
 
-Contato: https://www.linkedin.com/in/joaoarthurabreusouza/ - joaoarthurce@gmail.com
+Contato: https://www.linkedin.com/in/joaoarthurabreusouza/
